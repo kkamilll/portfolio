@@ -399,12 +399,26 @@ em { font-style: italic; color: var(--accent); }
   color: var(--primary);
 }
 .sk-ico svg {
-  width: 15px;
-  height: 15px;
+  width: 16px !important;
+  height: 16px !important;
+  max-width: 16px !important;
+  max-height: 16px !important;
+  display: block;
 }
 .sm-icon-wrap svg {
-  width: 26px;
-  height: 26px;
+  width: 26px !important;
+  height: 26px !important;
+  max-width: 26px !important;
+  max-height: 26px !important;
+  display: block;
+  color: var(--accent);
+}
+.tech-pill svg {
+  width: 14px !important;
+  height: 14px !important;
+  max-width: 14px !important;
+  max-height: 14px !important;
+  display: block;
   color: var(--accent);
 }
 
