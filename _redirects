@@ -1,0 +1,4 @@
+# Netlify Redirects
+# Fallback to custom 404
+/*   /404.html   404
+

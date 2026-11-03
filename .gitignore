@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch & temporary files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.netlify/
+
+# Local raw image dump
+0d7643a2f9ef5bb39114ba977a4b504a.jpg
+eduresized_1favicon1.png
+

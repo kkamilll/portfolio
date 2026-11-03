@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404 — Strona nie została znaleziona · Kamil</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" type="image/jpeg" href="img/kamil.jpg" />
+  <style>
+    .not-found-wrap {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    .not-found-num {
+      font-family: var(--serif);
+      font-size: clamp(72px, 12vw, 120px);
+      line-height: 1;
+      color: var(--accent);
+      margin: 0 0 16px;
+    }
+    .not-found-title {
+      font-family: var(--serif);
+      font-size: clamp(24px, 4vw, 36px);
+      color: var(--primary);
+      margin: 0 0 16px;
+    }
+    .not-found-desc {
+      font-size: 16px;
+      color: var(--muted);
+      max-width: 480px;
+      margin: 0 0 28px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+
+<body>
+  <main class="not-found-wrap">
+    <div class="not-found-num">404</div>
+    <h1 class="not-found-title">Nie znaleziono strony</h1>
+    <p class="not-found-desc">Strona, której szukasz, nie istnieje lub została przeniesiona.</p>
+    <a href="/" class="btn btn-primary">Wróć do strony głównej →</a>
+  </main>
+</body>
+
+</html>
+
