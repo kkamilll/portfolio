@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="100%" stop-color="#0f1d2e"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e2c28d"/>
+      <stop offset="100%" stop-color="#c8a165"/>
+    </linearGradient>
+  </defs>
+  <!-- Background squircle -->
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#bgGrad)" stroke="#c8a165" stroke-width="2" stroke-opacity="0.35"/>
+  <!-- Monogram K. -->
+  <text x="25" y="44" font-family="'DM Serif Display', Georgia, serif" font-size="34" font-weight="700" fill="url(#goldGrad)" text-anchor="middle">K</text>
+  <circle cx="43" cy="41" r="3.5" fill="#c8a165"/>
+</svg>
