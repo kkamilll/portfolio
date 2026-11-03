@@ -41,8 +41,8 @@ const translations = {
     ac_goal_desc: "Web / Frontend / Full-Stack Developer",
     about_lead: "„Wysoka kultura osobista, naturalna łatwość przyswajania wiedzy oraz inżynierskie podejście do rozwiązywania problemów.”",
     about_p1: "Absolwent studiów inżynierskich na <strong>Politechnice Poznańskiej</strong>, w trakcie studiów magisterskich ze specjalizacją <strong>Zaawansowane Technologie Internetowe</strong>.",
-    about_p2: "Na co dzień <strong>Specjalista ds. Wsparcia IT (poziom Mid) w Amica S.A.</strong> Ponad 4 lata w środowisku enterprise: tożsamości domenowe (Active Directory, Azure AD/Entra ID), Microsoft Intune (MDM) oraz infrastruktura sieciowa.",
-    about_p3: "Pasjonat <strong>tworzenia nowoczesnych aplikacji webowych</strong> (React, Node.js) oraz <strong>AI vibe coding</strong> w Antigravity — łącząc inżynierski rygor z błyskawicznym wdrażaniem rozwiązań.",
+    about_p2: "Na co dzień <strong>Specjalista ds. Wsparcia IT w Amica S.A.</strong> Ponad 4 lata doświadczenia w administracji IT, tożsamościach domenowych Active Directory i Entra ID, systemie Microsoft Intune oraz infrastrukturze sieciowej.",
+    about_p3: "Pasjonat tworzenia aplikacji webowych w <strong>React i Node.js</strong> - stale rozwijam swoje umiejętności programistyczne i chętnie korzystam z nowoczesnych narzędzi, w tym AI.",
 
     // Filary
     pillar_1_title: "Ambicja &amp; Kultura",
@@ -128,7 +128,7 @@ const translations = {
     sk_back_li5: "Certyfikacja: freeCodeCamp Back End &amp; APIs",
 
     sk_f_it_title: "Administracja IT Enterprise",
-    sk_badge_it: "Amica S.A. · Mid (od 07.2026)",
+    sk_badge_it: "Amica S.A. · IT Support",
     sk_it_li1: "Active Directory &amp; Azure AD / Entra ID",
     sk_it_li2: "Microsoft Intune (MDM — zarządzanie flotą urządzeń)",
     sk_it_li3: "Polityki grupowe GPO &amp; system SAP",
@@ -154,7 +154,7 @@ const translations = {
     iotlab_f3: "Panel opiekuna/administratora: zarządzanie stanami magazynowymi, etapami realizacji (od wniosku do zwrotu) oraz eksport umów do formatu PDF.",
     iotlab_f4: "System automatycznych powiadomień e-mail (SMTP/Nodemailer) oraz audyt operacji.",
     iotlab_tech_label: "Technologie:",
-    iotlab_tech_val: "React, Node.js, Express.js, MongoDB (Mongoose), Tailwind CSS, Nodemailer, jsPDF, REST API",
+    iotlab_tech_val: "React, Node.js, Express.js, MongoDB, Tailwind CSS, Nodemailer, jsPDF, REST API",
     iotlab_btn_code: "Zobacz kod IoTLab na GitHubie →",
     projects_all_btn: "Wszystkie repozytoria na GitHubie →",
 
@@ -216,9 +216,9 @@ const translations = {
     ac_goal_title: "Career Goal",
     ac_goal_desc: "Web / Frontend / Full-Stack Developer",
     about_lead: "“High personal work ethic, fast learning curve, and an engineering-first mindset for software and systems.”",
-    about_p1: "Graduate of the <strong>Poznan University of Technology</strong> (B.Eng.), currently pursuing my Master's degree in <em>Advanced Internet Technologies</em>.",
-    about_p2: "Currently working as <strong>IT Support Specialist (Mid Level) at Amica S.A.</strong> 4+ years of hands-on enterprise experience: domain identity (AD, Azure AD/Entra ID), Microsoft Intune (MDM), and corporate networking.",
-    about_p3: "Passionate about <strong>modern web engineering</strong> (React, Node.js) and <strong>AI vibe coding</strong> in Antigravity — pairing software discipline with rapid prototyping and execution.",
+    about_p1: "Graduate of the <strong>Poznan University of Technology</strong> with a Computer Science degree, currently pursuing a Master's in <em>Advanced Internet Technologies</em>.",
+    about_p2: "Currently an <strong>IT Support Specialist at Amica S.A.</strong> Over 4 years of hands-on experience in IT administration, domain identity with Active Directory and Entra ID, Microsoft Intune, and network infrastructure.",
+    about_p3: "Passionate about building web applications with <strong>React and Node.js</strong> - constantly expanding my development skills and utilizing modern tools, including AI.",
 
     // Pillars
     pillar_1_title: "Ambition &amp; Culture",
@@ -304,7 +304,7 @@ const translations = {
     sk_back_li5: "Certification: freeCodeCamp Back End &amp; APIs",
 
     sk_f_it_title: "Enterprise IT Administration",
-    sk_badge_it: "Amica S.A. · Mid Level (from 07.2026)",
+    sk_badge_it: "Amica S.A. · IT Support",
     sk_it_li1: "Active Directory &amp; Azure AD / Entra ID",
     sk_it_li2: "Microsoft Intune (MDM device fleet management)",
     sk_it_li3: "GPO Group Policies &amp; SAP ERP system",
@@ -330,7 +330,7 @@ const translations = {
     iotlab_f3: "Supervisor/Administrator dashboard: inventory management, lifecycle tracking (from request to return), and PDF contract export.",
     iotlab_f4: "Automated email notification system (SMTP/Nodemailer) and audit logging.",
     iotlab_tech_label: "Technologies:",
-    iotlab_tech_val: "React, Node.js, Express.js, MongoDB (Mongoose), Tailwind CSS, Nodemailer, jsPDF, REST API",
+    iotlab_tech_val: "React, Node.js, Express.js, MongoDB, Tailwind CSS, Nodemailer, jsPDF, REST API",
     iotlab_btn_code: "View IoTLab Code on GitHub →",
     projects_all_btn: "View all repositories on GitHub →",
 
